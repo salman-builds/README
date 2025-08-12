@@ -8,9 +8,8 @@ I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate a
 
 ### 🛠️ **Skills & Tools**
 **Data Analyst** 📊
-- **Tools:** Excel, Power BI, VBA, 
+- **Tools:** Excel, Power BI, VBA, SPSS, Eviews
 - **Language:** My SQL, Phython
-
 - 
 **Full Stack Web Developer** 💻
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js
