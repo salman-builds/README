@@ -38,10 +38,10 @@ I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate a
 - **Portfolio:** [globaltechedu.com](https://www.globaltechedu.com)
 
 ---
-
 > “Data is the new oil __ I refine it. Solving problems with data precision. Turning data into decisions.”
+---
+---
 > “Code is the canvas, creativity is the brush.”
-
 ---
 
 <!--
