@@ -7,6 +7,12 @@ I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate a
 ---
 
 ### 🛠️ **Skills & Tools**
+**Data Analyst** 📊
+- **Tools:** Excel, Power BI, VBA, 
+- **Language:** My SQL, Phython
+
+- 
+**Full Stack Web Developer** 💻
 - **Languages & Frameworks:** HTML, CSS, JavaScript, React, Node.js
 - **Design:** Bootstrap, Responsive Web Design
 - **Other:** UI/UX Principles, Web Performance
@@ -25,7 +31,7 @@ I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate a
 ### 📚 **About Me**
 - Problem solver at heart—always up for a challenge!
 - Avid reader and traveler, constantly seeking new perspectives.
-- Dedicated to continuous learning and sharing knowledge.
+- Dedicated to continuous learning, working with team and sharing knowledge.
 
 ---
 
@@ -34,10 +40,11 @@ I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate a
 
 ---
 
+> “Data is the new oil __ I refine it. Solving problems with data precision. Turning data into decisions.”
 > “Code is the canvas, creativity is the brush.”
 
 ---
 
 <!--
-**renaissance925/renaissance925** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**salman-builds/README** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
