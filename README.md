@@ -1,8 +1,8 @@
 # Hi there, I'm Salman Opeyemi 👋
 
-## 🚀 Web Developer & Designer
+## 🚀 Data Analyst | Web Developer & Designer
 
-Passionate about solving problems with code, I specialize in building beautiful and functional web experiences. Whether it's crafting engaging user interfaces or architecting robust backends, I love turning ideas into reality.
+I’m a **Data Analyst** 📊 and **Full Stack Web Developer** 💻 passionate about solving problems with code and data. I specialize in building beautiful and functional data and web experiences. Whether it's crafting engaging user interfaces or architecting robust backends, I love turning ideas into reality.
 
 ---
 
